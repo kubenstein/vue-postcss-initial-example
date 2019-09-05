@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "vue-postcss-initial-example",
+  "scripts": {
+    "serve": "parcel --port 3000 --out-dir .cache/_build/ src/index.html",
+    "build": "parcel build --out-dir dist/ src/index.html"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "less": "^3.10.3",
+    "parcel-bundler": "^1.12.3",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
