@@ -10,6 +10,7 @@
 
 <style lang="less" scoped>
 .text {
+  all: initial;
   color: purple;
 }
 </style>

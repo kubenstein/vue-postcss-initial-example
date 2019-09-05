@@ -9,6 +9,7 @@
     "@vue/component-compiler-utils": "^3.0.0",
     "less": "^3.10.3",
     "parcel-bundler": "^1.12.3",
+    "postcss-initial": "^3.0.1",
     "vue": "^2.6.10",
     "vue-hot-reload-api": "^2.3.3",
     "vue-template-compiler": "^2.6.10"
