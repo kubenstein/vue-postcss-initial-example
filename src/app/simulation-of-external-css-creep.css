@@ -1,0 +1,7 @@
+body div p,
+body div a {
+  font-size: 20px;
+  font-style: italic;
+  color: slateblue;
+  background-color: aqua;
+}
